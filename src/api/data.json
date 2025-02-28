@@ -1,0 +1,14 @@
+[
+  { "name": "Prada", "category": "Bags" },
+  { "name": "Gucci", "category": "Bags" },
+  { "name": "Nike Air Max", "category": "Shoes" },
+  { "name": "Adidas Ultraboost", "category": "Shoes" },
+  { "name": "Rolex Submariner", "category": "Watches" },
+  { "name": "Omega Seamaster", "category": "Watches" },
+  { "name": "Apple MacBook Pro", "category": "Electronics" },
+  { "name": "Dell XPS 13", "category": "Electronics" },
+  { "name": "Samsung Galaxy S21", "category": "Phones" },
+  { "name": "iPhone 14 Pro", "category": "Phones" },
+  { "name": "Sony WH-1000XM4", "category": "Headphones" },
+  { "name": "Sony A7 III", "category": "Cameras" }
+]
